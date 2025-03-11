@@ -1,9 +1,19 @@
-/* Add styles here */
+/* Add .bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+styles here */
 :root {
     /*here variable goes*/
     --color-primary:var(--color-primary)
 
 
 }
+
+body {
+    background-color: #f4f1e9; /* Color de fondo en código hexadecimal */
+}
+
 
 /*
