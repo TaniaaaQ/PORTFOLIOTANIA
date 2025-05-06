@@ -115,5 +115,11 @@ body {
   margin-top: 20px;
 }
 
+.seccion {
+  margin-left: 40px;
+  margin-right: 20px; /* opcional si quieres margen también a la derecha */
+}
+
+
 
 /*
